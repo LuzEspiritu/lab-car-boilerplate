@@ -1,1 +1,86 @@
 /* Los estilos de tu proyecto */
+
+.menu-hamburguesa{
+    padding-left: 10px;
+}
+.logo-header img{
+    padding:10px;
+}
+/*setbootstrap*/
+.navbar-default{
+    margin-bottom: 0;
+}
+.btn{
+    margin-top: 5%;
+    border: none;
+    display: block;
+}
+/*fin setbootstrap*/
+
+/*seccion portada*/
+.bg-image {
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center bottom;
+    height: 100vh;}
+
+.portada {
+    padding-top:55px;
+    background-image: url(../assets/images/taxi.jpg);
+    
+}
+.box-portada{
+    margin-top: 7%;
+    padding: 3%; 
+    background-color: #F7B617;
+}
+h1,h2,h3,h4{
+    color:white;
+}
+ h1{
+    display: inline;
+    font-size: 2.0em;
+   
+}
+h2{
+    display: inline-block;
+    font-size: 1.5em;
+}
+.logo-blanco{
+    height:30px;
+    padding-bottom: 10px;
+    display: inline-block;
+    font-size: 2em;
+    
+}
+
+/*fin de seccion portada*/
+
+/*----box two----*/
+.box-two{
+    padding: 4%;
+    background-color: #F7B617;
+}
+.style-box-two{
+    padding: 8%;
+    border:1px solid white;
+}
+p{
+    color:white;
+    font-size: 1.2em;
+    line-height: 25px;
+}
+
+/*----box three----*/
+.box-3 {
+    background-image: url(../assets/images/conduce.jpg);
+    
+}
+/*--box-tarifas*/
+.box-tarifas{
+    padding: 4%;
+    background-color: #F7B617;
+
+}
+
+/*dispositivos*/
